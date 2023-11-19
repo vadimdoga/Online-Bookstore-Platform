@@ -20,7 +20,7 @@ Implement a search functionality to allow users to find books based on various c
 Develop a shopping cart feature for users to add books and proceed to checkout.
 Implement secure payment processing using a payment gateway (e.g., Stripe).
 
-4.MongoDB with Replicas:
+4. MongoDB with Replicas:
 Set up MongoDB as the primary database for storing book data.
 Configure MongoDB replication to ensure data availability and fault tolerance.
 
